@@ -1,0 +1,47 @@
+﻿  HW3.cpp
+  Target.cpp
+  game.cpp
+C:\Users\John Heiden\Documents\GitHub\2205-igme209-03-johnheiden\HW3\game.cpp(299): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\John Heiden\Documents\GitHub\2205-igme209-03-johnheiden\HW3\game.cpp(315): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\John Heiden\Documents\GitHub\2205-igme209-03-johnheiden\HW3\game.cpp(326): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\John Heiden\Documents\GitHub\2205-igme209-03-johnheiden\HW3\game.cpp(337): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\John Heiden\Documents\GitHub\2205-igme209-03-johnheiden\HW3\game.cpp(345): warning C4244: 'argument': conversion from 'T' to 'float32', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\John Heiden\Documents\GitHub\2205-igme209-03-johnheiden\HW3\game.cpp(348): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating Code...
+  HW2.vcxproj -> C:\Users\John Heiden\Documents\GitHub\2205-igme209-03-johnheiden\HW3\Debug\HW2.exe

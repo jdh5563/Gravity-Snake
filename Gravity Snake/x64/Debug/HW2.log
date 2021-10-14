@@ -1,0 +1,7 @@
+﻿  HW3.cpp
+  game.cpp
+C:\Users\John Heiden\Documents\GitHub\2205-igme209-03-johnheiden\HW3\game.cpp(149): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake.cpp
+  Target.cpp
+  Generating Code...
+sfml-window-s-d.lib(Keyboard.cpp.obj) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
